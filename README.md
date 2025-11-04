@@ -1,9 +1,4 @@
 # class_workbooks
-<<<<<<< HEAD
-vcb
-=======
-1234567
->>>>>>> d85fb6e (xfcghjk)
 
 It contains all the class work we have done so far:
 1. Tatyana Li_DataTechWorkbook.docx - has self work i've done in a week 1 with Excel sheets, creating pivot tables and some other simple analysis skills.
