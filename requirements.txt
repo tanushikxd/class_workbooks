@@ -1,0 +1,7 @@
+Along learning journey I've covered tools as:
+
+1. Excel
+2. PowerBi & Tableau 
+3. SQL & MySQL
+4. Python (Pandas)
+5. Azure cloud system
